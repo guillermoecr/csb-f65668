@@ -7,4 +7,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"H99C":[function(require,module,exports) {
 "use strict";var r=require("./productos"),o=require("./carrito");function t(){(0,o.agregarProducto)("producto-1")}function e(){(0,o.agregarProducto)("producto-2")}function c(){(0,o.agregarProducto)("producto-3")}function n(){(0,o.agregarProducto)("producto-4")}require("./styles.css");var a=(0,r.obtenerBotonComprar)("producto-1");a.addEventListener("click",t);var d=(0,r.obtenerBotonComprar)("producto-2");d.addEventListener("click",e);var u=(0,r.obtenerBotonComprar)("producto-3");u.addEventListener("click",c);var i=(0,r.obtenerBotonComprar)("producto-4");i.addEventListener("click",n);
 },{"./productos":"e2x8","./carrito":"juyN","./styles.css":"D9Nj"}]},{},["H99C"], null)
-//# sourceMappingURL=/csb-f65668/src.bfbdc679.js.map
+//# sourceMappingURL=/csb-f65668/src.6429fe53.js.map
