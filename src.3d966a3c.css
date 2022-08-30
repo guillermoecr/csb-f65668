@@ -1,0 +1,2 @@
+body{font-family:sans-serif}.titulo-carrito-compras{display:flex;align-items:center;gap:8px}#lista-productos{display:flex;gap:12px;justify-content:space-between;align-items:stretch}#lista-productos div{display:flex;flex-flow:column wrap;border:1px solid grey;padding:8px;gap:6px}#lista-productos div span{flex:1}
+/*# sourceMappingURL=/csb-f65668/src.3d966a3c.css.map */
